@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,typescript,js,spring,flask,expressjs,angular,react,maven,hibernate,git,linux,docker,googlecloud,aws,python,bash,vim,haskell,mysql,mongodb,rust,r,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,typescript,js,spring,flask,expressjs,angular,react,maven,hibernate,git,linux,docker,googlecloud,aws,python,bash,vim,haskell,mysql,mongodb,rust,r,html,css)](https://skillicons.dev)
 
 ##
 <div align="center">
